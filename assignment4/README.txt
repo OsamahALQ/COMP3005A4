@@ -15,6 +15,10 @@ The file contains:
 				a. Example
 					i. Main.java
 
+
+You need to go to the last file to find the java file. Sorry for the inconvenience 
+
+
 In Main.Java the code which contain these functions:
 1- private static final String JDBC_URL = "jdbc:postgresql://localhost:5432/Assignment4" ;
 2- private static final String USER = "your username" ; < I had mine like in the video >
